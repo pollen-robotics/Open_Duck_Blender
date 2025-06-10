@@ -47,6 +47,7 @@ Open `open-duck-mini.blend` in Blender.
 
 ## Quick Start
 1. Open open-duck-mini.blend in Blender 4.3.2+
+> 💡 When first opening the project you might get a message *"For security reason, automatic execution of Python scripts in this file was disabled" because of the add-ons being started automatically. Check the option *"Permanently allow execution of scripts"* and click *Allow Execution* not to see the warning again.
 2. The FK/IK control and Data Recorder tools are already enabled
 3. Select the armature and enter Pose Mode
 4. Use FK or IK bones to animate the legs. Head joints can also be controled, but only with FK for now
